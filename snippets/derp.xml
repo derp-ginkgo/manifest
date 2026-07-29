@@ -129,6 +129,7 @@
   <project path="hardware/lineage/interfaces" name="hardware_derp_interfaces" remote="derp" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="derp" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="derp" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="fork" />
 
   <!-- Packages -->
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="derp" />
